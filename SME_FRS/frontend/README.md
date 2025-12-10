@@ -44,20 +44,32 @@ No extra installation required — pure HTML, CSS, JavaScript.
 
  Pages Overview
 1️.Upload Page (index.html)
+
 Choose an Excel file
+
 Click Upload
+
 Shows success/error message
+
 Button to go to dashboard
 
 2️. Dashboard Page (dashboard.html)
+
 Loads processed file list from backend
+
 Shows approved/rejected counts
+
 Allows downloading processed files
 
 Tech Stack
+
 HTML5
+
 CSS3
+
 Vanilla JavaScript
+
 Backend required for API communication
+
 
 
