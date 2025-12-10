@@ -1,7 +1,7 @@
 This is the frontend for an Excel Upload & Processing System.
 It allows users to upload .xlsx files and view processed results in a dashboard.
 
-✅ Features
+ Features
 
 Upload Excel file (.xlsx)
 Sends upload request to backend API
@@ -32,7 +32,7 @@ ENDPOINT:
 | Fetch processed file list | GET    | `/api/processed-files`     |
 | Download processed file   | GET    | `/api/download/<filename>` |
 
-🚀 How to Run Frontend
+How to Run Frontend
 
 run this on terminal : npm start
 Download or clone this repository
@@ -42,21 +42,22 @@ index.html → upload page
 dashboard.html → results dashboard
 No extra installation required — pure HTML, CSS, JavaScript.
 
-🖼 Pages Overview
-1️⃣ Upload Page (index.html)
+ Pages Overview
+1️.Upload Page (index.html)
 Choose an Excel file
 Click Upload
 Shows success/error message
 Button to go to dashboard
 
-2️⃣ Dashboard Page (dashboard.html)
+2️. Dashboard Page (dashboard.html)
 Loads processed file list from backend
 Shows approved/rejected counts
 Allows downloading processed files
 
-🎨 Tech Stack
+Tech Stack
 HTML5
 CSS3
 Vanilla JavaScript
 Backend required for API communication
+
 
