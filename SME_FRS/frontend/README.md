@@ -1,4 +1,7 @@
-To run:npm start python -m http.server 3000 http://localhost:3000/dashboard.html
+To run:npm start 
+-python-mhttp.server 3000 
+-http://localhost:3000/index.html
+
 #This is the frontend for an Excel Upload & Processing System.
 -It allows users to upload .xlsx files and view processed results in a dashboard.
 
@@ -71,6 +74,7 @@ http://127.0.0.1:8000
 -Vanilla JavaScript
 
 -Backend required for API communication
+
 
 
 
